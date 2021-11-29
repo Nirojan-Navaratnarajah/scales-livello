@@ -28,3 +28,4 @@ void loop() {
   Serial.print(" kg"); //You can change this to kg but you'll need to refactor the calibration_factor
   Serial.println();
 }
+hi its me
